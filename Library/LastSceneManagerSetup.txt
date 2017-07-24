@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LinkDemo/Scence/Visit.unity
+  isLoaded: 1
+  isActive: 1
